@@ -1,0 +1,9 @@
+OS:macOS High Sierra
+ver:10.13.4
+
+MacBook Pro (Retina, 13-inch, Early 2015)
+プロセッサ:2.7 GHz Intel Core i5
+メモリ:8 GB 1867 MHz DDR3
+起動ディスク:Macintosh HD
+グラフィックス:Intel Iris Graphics 6100 1536 MB
+内臓ディスプレイ:13.3インチ（2560 x 1600）
